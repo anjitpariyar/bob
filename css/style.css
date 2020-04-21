@@ -1084,16 +1084,9 @@
                 max-width: 100vw;
                 overflow-x: hidden;
             }
-            form{
-                display: none;
-            }
-            
-        }
-
-        @media (max-width: 420px) {
             .quick-contact form .form-group{
                 border-radius: 5px;
                 width: 90%;
             }
-
-        } 
+            
+        }
