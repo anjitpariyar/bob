@@ -1079,5 +1079,11 @@
             }
 
             /* edited on april 21 */
-            
+            body{
+                max-width: 100vw;
+                overflow-x: hidden;
+            }
+            .quick-contact .social-feed{
+                display: none;
+            }
         }
