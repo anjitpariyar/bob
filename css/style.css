@@ -13,6 +13,7 @@
             src: url("../fonts/Legend-M54_0.ttf") format("truetype");
         }
         
+
         @font-face {
             font-family: 'myfont';
             src: url("../fonts/Legend-M54_0.ttf") format("truetype");
@@ -1083,7 +1084,13 @@
                 max-width: 100vw;
                 overflow-x: hidden;
             }
-            form{
-                display: none;
-            }
+            
         }
+
+        @media (max-width: 420px) {
+            .quick-contact form .form-grou{
+                border-radius: 5px;
+                width: 90%;
+            }
+
+        } 
