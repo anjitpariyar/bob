@@ -1085,7 +1085,7 @@
                 overflow-x: hidden;
             }
             .quick-contact form .form-group{
-                border-radius: 5px;
+                padding: 5px;
                 width: 90%;
             }
             
