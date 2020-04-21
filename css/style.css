@@ -1081,5 +1081,7 @@
             /* edited on april 21 */
             body{
                 width: 100vw !important;
+                min-width: 100vw !important;
+                
             }
         }
