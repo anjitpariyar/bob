@@ -1079,12 +1079,7 @@
             }
 
             /* edited on april 21 */
-            .modal-open .modal,  .modal-content{
-                width: 100vw;
+            body{
+                width: 100vw !important;
             }
-            .modal-dialog{
-                margin: 0;
-                padding: 1rem;
-            }
-
         }
