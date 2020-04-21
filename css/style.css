@@ -1091,7 +1091,7 @@
         }
 
         @media (max-width: 420px) {
-            .quick-contact form .form-grou{
+            .quick-contact form .form-group{
                 border-radius: 5px;
                 width: 90%;
             }
